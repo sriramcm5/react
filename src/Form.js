@@ -25,7 +25,7 @@ function Form() {
       </div>
 
       <div>
-        <label>Password:</label>
+        <label>Passwords:</label>
         <input 
           type="password"
           value={password}
