@@ -1,0 +1,14 @@
+.color-button {
+    background-color: rgb(252, 175, 32);
+    color: black;
+    text-align: center;
+    font-weight: 500;
+    display:inline-flex;
+    font-size: 19px;
+            
+
+}
+.pic{
+    justify-content: center;
+    align-items: center;
+}
