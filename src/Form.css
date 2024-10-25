@@ -1,0 +1,12 @@
+body{
+    background-color: blueviolet;
+}
+
+.addInput{
+    width: 25% ;
+    margin:30px auto;
+    background-color: white;
+    padding: 80px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgba(0,0,0,0.065);
+}
